@@ -1,19 +1,12 @@
 <h1 align="left">Basant Adel Eissa</h1>
-<h1 align="left"> Flutter developer</h1>
+<h2 align="left"> Flutter developer</h2>
 
 <p align="left">
-  Building high performance, scalable mobile ecosystems</b>. 🚀
+  Building high performance, scalable mobile ecosystems</b>.
 </p>
 
-<br />
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Location-Egypt-009688?style=flat-square&logo=googlemaps&logoColor=white" />
 
-  <img src="https://img.shields.io/badge/Focus-Production--Ready-success?style=flat-square" />
-</p>
-
-<hr style="border: 0; border-top: 1px solid #eee; margin: 20px 0;" />
 <h2>🌐 Portfolio</h2>
 
 <p>
