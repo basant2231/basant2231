@@ -13,30 +13,42 @@
     <img src="https://img.shields.io/badge/-Visit%20My%20Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
 </p>
-### 🛠️ Tech Stack
+<p align="left">
+  <img src="https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-iOS-000000?style=flat-square&logo=apple&logoColor=white"/>
+</p>
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=02569B&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Basant+Adel+Eissa;Senior+Flutter+Engineer;Mobile+Solution+Architect" alt="Typing SVG" />
+<p align="left">
+  <img src="https://img.shields.io/badge/-Clean%20Architecture-6C63FF?style=flat-square"/>
+  <img src="https://img.shields.io/badge/-SOLID-3949AB?style=flat-square"/>
+  <img src="https://img.shields.io/badge/-Bloc-02569B?style=flat-square"/>
+  <img src="https://img.shields.io/badge/-Provider-42A5F5?style=flat-square"/>
+  <img src="https://img.shields.io/badge/-MVVM-FF7043?style=flat-square"/>
+</p>
 
-  <p align="center">
-    <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" />
-    <img src="https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" />
-    <img src="https://img.shields.io/badge/Clean%20Architecture-black?style=for-the-badge&logo=architecture&logoColor=white" />
-  </p>
+<p align="left">
+  <img src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
+  <img src="https://img.shields.io/badge/-REST%20APIs-009688?style=flat-square&logo=api&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Payment%20Integration-4CAF50?style=flat-square"/>
+  <img src="https://img.shields.io/badge/-Local%20Storage-795548?style=flat-square"/>
+</p>
 
-  <h2 align="center">Building Scalable Mobile Ecosystems</h2>
-  
-  <p align="center">
-    Senior Flutter Developer focused on <b>Clean Architecture</b>, <b>BLoC</b>, and <b>Production Excellence</b>. <br />
-    Leading mobile initiatives with a focus on maintainability and high-performance UI.
-  </p>
-</div>
+<p align="left">
+  <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-CI/CD-2088FF?style=flat-square&logo=github-actions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
+</p>
 
-<hr style="border: 0; border-top: 1px solid #eee; margin: 20px 0;" />
----
-
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
-
+<p align="left">
+  <img src="https://img.shields.io/badge/-Performance%20Optimization-FF6F00?style=flat-square"/>
+  <img src="https://img.shields.io/badge/-Responsive%20UI-00ACC1?style=flat-square"/>
+  <img src="https://img.shields.io/badge/-Unit%20Testing-607D8B?style=flat-square"/>
+  <img src="https://img.shields.io/badge/-Debugging-9E9E9E?style=flat-square"/>
+</p>
 ```dart
 const basant = {
   role: "Flutter Developer",
