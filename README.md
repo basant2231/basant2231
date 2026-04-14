@@ -54,7 +54,7 @@ Built Diyafa Customer & Staff apps
 Implemented booking systems & role-based access control
 Developed service-related features (laundry, cleaning, etc.)
 <h3>🎓 Education</h3>
-
+```
 🎓 Bachelor's Degree in Computer Science
 Tanta University
 
