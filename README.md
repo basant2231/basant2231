@@ -1,15 +1,15 @@
 <h1 align="left">Basant Adel Eissa</h1>
-<h3 align="left"> Flutter developer</h3>
+<h1 align="left"> Flutter developer</h1>
 
 <p align="left">
-  Building high-performance, scalable mobile ecosystems with <b>Clean Architecture</b> and <b>BLoC</b>. 🚀
+  Building high performance, scalable mobile ecosystems</b>. 🚀
 </p>
 
 <br />
 
 <p align="left">
   <img src="https://img.shields.io/badge/Location-Egypt-009688?style=flat-square&logo=googlemaps&logoColor=white" />
-  <img src="https://img.shields.io/badge/Experience-Senior-02569B?style=flat-square" />
+
   <img src="https://img.shields.io/badge/Focus-Production--Ready-success?style=flat-square" />
 </p>
 
