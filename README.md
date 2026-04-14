@@ -3,11 +3,7 @@
 <p><em>
 Flutter Developer 💙 <br/>
 Building scalable mobile apps with clean architecture 🚀 <br/>
-Based in Egypt 🇪🇬
 </em></p>
-
-[![Linkedin: basant-eissa](https://img.shields.io/badge/-basant--eissa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/basant-eissa-bb29791b3/)](https://www.linkedin.com/in/basant-eissa-bb29791b3/)
-[![GitHub basant2231](https://img.shields.io/github/followers/basant2231?label=follow&style=social)](https://github.com/basant2231)
 
 ---
 <h2>🌐 Portfolio</h2>
@@ -75,23 +71,57 @@ const basant = {
   tools: ["Git", "GitHub", "CI/CD"],
 };
 ```
-💼 Experience
+<h2 align="left">💼 Professional Experience</h2>
 
-Splenify (Remote) — Jul 2024 – Present
+<table width="100%">
+  <tr>
+    <td width="70%"><strong>Splenify</strong> | Senior Flutter Developer (Remote)</td>
+    <td align="right"><em>Jul 2024 – Present</em></td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <ul>
+        <li><b>Production Scale:</b> Orchestrated the development of <b>6+ high-traffic Flutter applications</b>.</li>
+        <li><b>Technical Leadership:</b> Implemented scalable features, performance profiling, and modular architecture.</li>
+        <li><b>Global Collaboration:</b> Synchronized with international teams to deliver seamless cross-platform experiences.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
-Contributed to 6+ production Flutter apps
-Implemented features, fixed bugs, and improved performance
-Collaborated with international remote teams
+<br />
 
-Farkito (Remote Internship) — Feb 2024 – May 2024
+<table width="100%">
+  <tr>
+    <td width="70%"><strong>Farkito</strong> | Flutter Developer Intern (Remote, France)</td>
+    <td align="right"><em>Feb 2024 – May 2024</em></td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <ul>
+        <li><b>Diyafa Ecosystem:</b> Engineered <b>Customer & Staff</b> applications from the ground up.</li>
+        <li><b>Logic Design:</b> Built robust <b>Role-Based Access Control (RBAC)</b> and complex booking systems.</li>
+        <li><b>Feature Modules:</b> Developed integrated service flows for laundry, cleaning, and maintenance.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
-Built Diyafa Customer & Staff apps
-Implemented booking systems & role-based access control
-Developed service-related features (laundry, cleaning, etc.)
-🎓 Education
+<br />
 
-🎓 Bachelor's Degree in Computer Science
-Tanta University
+<h2 align="left">🎓 Education</h2>
+
+<table width="100%">
+  <tr>
+    <td width="70%"><strong>B.Sc. in Computer Science</strong></td>
+    <td align="right"><em>Tanta University</em></td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <p>Faculty of Computers and Information</p>
+    </td>
+  </tr>
+</table>
 
 📫 Connect with me
 <p> <a href="https://github.com/basant2231"><img src="https://img.shields.io/badge/GitHub-12100E?style=for-the-badge&logo=github&logoColor=white"/></a> <a href="https://www.linkedin.com/in/basant-eissa-bb29791b3/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="https://basantadeleissa.netlify.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=internet-explorer&logoColor=white"/></a> </p>
