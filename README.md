@@ -71,52 +71,65 @@ const basant = {
   tools: ["Git", "GitHub", "CI/CD"],
 };
 ```
-<h2 align="left">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" alt="Briefcase" width="30" height="30" /> 
-  Professional Experience
-</h2>
+<p align="left">
+  <img src="https://img.shields.io/badge/-Experience-black?style=for-the-badge&logo=workplace&logoColor=white" />
+</p>
 
-<div align="left">
-  <h3>
-    <a href="https://splenify.com">Splenify</a> 
-    <span style="font-weight: normal; font-size: 14px; color: #555;">&nbsp;&nbsp;•&nbsp;&nbsp; Senior Flutter Developer &nbsp;&nbsp;•&nbsp;&nbsp; <i>Jul 2024 – Present</i></span>
-  </h3>
-  <p style="margin-top: -10px; color: #666;"><i>Remote / International Team</i></p>
-  <ul>
-    <li><b>Production Impact:</b> Engineered and maintained <b>6+ production apps</b> with a focus on BLoC architecture and performance optimization.</li>
-    <li><b>Scalability:</b> Standardized codebase modularity, reducing feature turnaround time by implementing reusable UI components.</li>
-    <li><b>Global Collab:</b> Partnered with remote international teams to resolve complex logic gaps in cross-platform deployments.</li>
-  </ul>
+<table width="100%">
+  <tr>
+    <td>
+      <details open>
+        <summary><b><font size="4">Senior Flutter Developer @ Splenify</font></b></summary>
+        <p align="right"><i>Jul 2024 — Present</i></p>
+        <blockquote>
+          Contributed to <b>6+ production-grade</b> applications, focusing on architectural scalability and performance.
+        </blockquote>
+        <ul>
+          <li><b>Core Engineering:</b> Implemented complex features and optimized state management across international remote teams.</li>
+          <li><b>Performance:</b> Proactively identified and resolved bottlenecks, ensuring smooth 60fps UI/UX.</li>
+          <li><b>Stack:</b> <code>Flutter</code> • <code>Dart</code> • <code>BLoC</code> • <code>Clean Architecture</code></li>
+        </ul>
+      </details>
+    </td>
+  </tr>
+</table>
 
-  <br />
+<br />
 
-  <h3>
-    Farkito 
-    <span style="font-weight: normal; font-size: 14px; color: #555;">&nbsp;&nbsp;•&nbsp;&nbsp; Flutter Developer (Intern) &nbsp;&nbsp;•&nbsp;&nbsp; <i>Feb 2024 – May 2024</i></span>
-  </h3>
-  <p style="margin-top: -10px; color: #666;"><i>France / Remote</i></p>
-  <ul>
-    <li><b>Ecosystem Development:</b> Developed the <b>Diyafa Customer & Staff</b> apps, streamlining hospitality workflows.</li>
-    <li><b>Security & Logic:</b> Architected <b>Role-Based Access Control (RBAC)</b> and dynamic booking modules.</li>
-    <li><b>Feature Engineering:</b> Integrated service-driven features including real-time cleaning and maintenance tracking.</li>
-  </ul>
-</div>
+<table width="100%">
+  <tr>
+    <td>
+      <details>
+        <summary><b><font size="4">Flutter Developer @ Farkito (France)</font></b></summary>
+        <p align="right"><i>Feb 2024 — May 2024</i></p>
+        <blockquote>
+          Architected the <b>Diyafa Ecosystem</b>, bridging the gap between staff management and customer service.
+        </blockquote>
+        <ul>
+          <li><b>System Design:</b> Built robust Role-Based Access Control (RBAC) for diverse staff requirements.</li>
+          <li><b>Service Modules:</b> Developed end-to-end laundry, cleaning, and booking logic.</li>
+          <li><b>Stack:</b> <code>Flutter</code> • <code>REST APIs</code> • <code>Firebase</code></li>
+        </ul>
+      </details>
+    </td>
+  </tr>
+</table>
 
-<hr style="border: 0; border-top: 1px solid #eee; margin: 40px 0;" />
+<br />
 
-<h2 align="left">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" alt="Graduation Cap" width="30" height="30" /> 
-  Education
-</h2>
+<p align="left">
+  <img src="https://img.shields.io/badge/-Education-black?style=for-the-badge&logo=read-the-docs&logoColor=white" />
+</p>
 
-<div align="left">
-  <h3>
-    B.Sc. in Computer Science 
-    <span style="font-weight: normal; font-size: 14px; color: #555;">&nbsp;&nbsp;•&nbsp;&nbsp; Tanta University</span>
-  </h3>
-  <p style="margin-top: -5px;"><i>Faculty of Computers and Information</i></p>
-</div>
-
+<table width="100%">
+  <tr>
+    <td width="50px"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" width="40" /></td>
+    <td>
+      <b>Bachelor’s Degree in Computer Science</b><br />
+      Tanta University • Faculty of Computers and Information
+    </td>
+  </tr>
+</table>
 📫 Connect with me
 <p> <a href="https://github.com/basant2231"><img src="https://img.shields.io/badge/GitHub-12100E?style=for-the-badge&logo=github&logoColor=white"/></a> <a href="https://www.linkedin.com/in/basant-eissa-bb29791b3/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="https://basantadeleissa.netlify.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=internet-explorer&logoColor=white"/></a> </p>
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love building impactful apps</b> and collaborating with amazing teams — feel free to connect! 🚀</em> ```
