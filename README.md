@@ -41,7 +41,7 @@ const basant = {
 };
 <h3>🛠️ Tech Stack</h3> <p> <img src="https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/> <img src="https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white"/> <img src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/> <img src="https://img.shields.io/badge/-REST%20API-000000?style=flat-square&logo=api&logoColor=white"/> <img src="https://img.shields.io/badge/-Bloc-02569B?style=flat-square"/> <img src="https://img.shields.io/badge/-Provider-339933?style=flat-square"/> <img src="https://img.shields.io/badge/-GetX-8A2BE2?style=flat-square"/> <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/-CI/CD-0A66C2?style=flat-square"/> </p>
 <h3>💼 Experience</h3>
-
+```
 Splenify (Remote) — Jul 2024 – Present
 
 Contributed to 6+ production Flutter apps
@@ -54,7 +54,7 @@ Built Diyafa Customer & Staff apps
 Implemented booking systems & role-based access control
 Developed service-related features (laundry, cleaning, etc.)
 <h3>🎓 Education</h3>
-```
+
 🎓 Bachelor's Degree in Computer Science
 Tanta University
 
