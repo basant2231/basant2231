@@ -1,10 +1,19 @@
-<div align="center">
-  <h1>Hi, I'm Basant Adel Eissa</h1>
-  <h3>Senior Flutter Engineer • Mobile Solution Architect</h3>
-  <p align="center">
-    <i>Building scalable mobile ecosystems with clean architecture</i>
-  </p>
-</div>
+<h1 align="left">Basant Adel Eissa</h1>
+<h3 align="left"> Flutter developer</h3>
+
+<p align="left">
+  Building high-performance, scalable mobile ecosystems with <b>Clean Architecture</b> and <b>BLoC</b>. 🚀
+</p>
+
+<br />
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Location-Egypt-009688?style=flat-square&logo=googlemaps&logoColor=white" />
+  <img src="https://img.shields.io/badge/Experience-Senior-02569B?style=flat-square" />
+  <img src="https://img.shields.io/badge/Focus-Production--Ready-success?style=flat-square" />
+</p>
+
+<hr style="border: 0; border-top: 1px solid #eee; margin: 20px 0;" />
 <h2>🌐 Portfolio</h2>
 
 <p>
@@ -58,8 +67,6 @@
 <img src="https://img.shields.io/badge/-CI/CD-2088FF?style=flat-square&logo=github-actions&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/-iOS-000000?style=flat-square&logo=apple&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
 
