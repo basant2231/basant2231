@@ -79,7 +79,7 @@ const basant = {
   <tr>
     <td>
       <details open>
-        <summary><b><font size="4">Senior Flutter Developer @ Splenify</font></b></summary>
+        <summary><b><font size="4">Flutter Developer @ Splenify</font></b></summary>
         <p align="right"><i>Jul 2024 — Present</i></p>
         <blockquote>
           Contributed to <b>6+ production-grade</b> applications, focusing on architectural scalability and performance.
