@@ -8,21 +8,40 @@ Based in Egypt 🇪🇬
 
 [![Linkedin: basant-eissa](https://img.shields.io/badge/-basant--eissa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/basant-eissa-bb29791b3/)](https://www.linkedin.com/in/basant-eissa-bb29791b3/)
 [![GitHub basant2231](https://img.shields.io/github/followers/basant2231?label=follow&style=social)](https://github.com/basant2231)
-<img alt="Flutter" src="https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
-<img alt="Dart" src="https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
-<img alt="Firebase" src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
-<img alt="REST API" src="https://img.shields.io/badge/-REST%20API-009688?style=flat-square&logo=api&logoColor=white" />
-<img alt="Clean Architecture" src="https://img.shields.io/badge/-Clean%20Architecture-6C63FF?style=flat-square&logo=code&logoColor=white" />
-<img alt="State Management" src="https://img.shields.io/badge/-State%20Management-FF6F00?style=flat-square&logo=flutter&logoColor=white" />
-<img alt="Bloc" src="https://img.shields.io/badge/-BLoC-02569B?style=flat-square&logo=flutter&logoColor=white" />
-<img alt="Provider" src="https://img.shields.io/badge/-Provider-42A5F5?style=flat-square&logo=flutter&logoColor=white" />
-<img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-<img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-<img alt="CI/CD" src="https://img.shields.io/badge/-CI/CD-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
-<img alt="Android" src="https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=white" />
-<img alt="iOS" src="https://img.shields.io/badge/-iOS-000000?style=flat-square&logo=apple&logoColor=white" />
-<img alt="Figma" src="https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
-<img alt="Postman" src="https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
+
+---
+
+### 🛠️ Tech Stack
+
+<p>
+<img src="https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
+<img src="https://img.shields.io/badge/-REST%20APIs-009688?style=flat-square&logo=api&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Payment%20Integration-4CAF50?style=flat-square"/>
+<img src="https://img.shields.io/badge/-Clean%20Architecture-6C63FF?style=flat-square"/>
+<img src="https://img.shields.io/badge/-MVVM-FF7043?style=flat-square"/>
+<img src="https://img.shields.io/badge/-MVC-8D6E63?style=flat-square"/>
+<img src="https://img.shields.io/badge/-SOLID-3949AB?style=flat-square"/>
+<img src="https://img.shields.io/badge/-OOP-00897B?style=flat-square"/>
+<img src="https://img.shields.io/badge/-Bloc-02569B?style=flat-square"/>
+<img src="https://img.shields.io/badge/-Provider-42A5F5?style=flat-square"/>
+<img src="https://img.shields.io/badge/-GetX-8A2BE2?style=flat-square"/>
+<img src="https://img.shields.io/badge/-Responsive%20UI-00ACC1?style=flat-square"/>
+<img src="https://img.shields.io/badge/-Performance%20Optimization-FF6F00?style=flat-square"/>
+<img src="https://img.shields.io/badge/-Local%20Storage-795548?style=flat-square"/>
+<img src="https://img.shields.io/badge/-Unit%20Testing-607D8B?style=flat-square"/>
+<img src="https://img.shields.io/badge/-Debugging-9E9E9E?style=flat-square"/>
+<img src="https://img.shields.io/badge/-Troubleshooting-616161?style=flat-square"/>
+<img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/-CI/CD-2088FF?style=flat-square&logo=github-actions&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=white"/>
+<img src="https://img.shields.io/badge/-iOS-000000?style=flat-square&logo=apple&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
+</p>
+
 ---
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
@@ -31,17 +50,23 @@ Based in Egypt 🇪🇬
 const basant = {
   role: "Flutter Developer",
   experience: "2+ years",
-  code: ["Dart", "Flutter"],
   architecture: ["Clean Architecture", "MVVM", "MVC", "SOLID"],
   stateManagement: ["Provider", "Bloc", "GetX"],
   backend: ["REST APIs", "Firebase"],
+  skills: [
+    "Payment Integration",
+    "Performance Optimization",
+    "Responsive UI",
+    "Local Storage",
+    "Unit Testing",
+    "Debugging",
+    "Troubleshooting"
+  ],
   tools: ["Git", "GitHub", "CI/CD"],
-  focus: ["Performance Optimization", "Responsive UI", "Scalable Apps"],
-  challenge: "Building production-ready apps with real-world impact 🚀"
 };
-<h3>🛠️ Tech Stack</h3> <p> <img src="https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/> <img src="https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white"/> <img src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/> <img src="https://img.shields.io/badge/-REST%20API-000000?style=flat-square&logo=api&logoColor=white"/> <img src="https://img.shields.io/badge/-Bloc-02569B?style=flat-square"/> <img src="https://img.shields.io/badge/-Provider-339933?style=flat-square"/> <img src="https://img.shields.io/badge/-GetX-8A2BE2?style=flat-square"/> <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/-CI/CD-0A66C2?style=flat-square"/> </p>
-<h3>💼 Experience</h3>
 ```
+💼 Experience
+
 Splenify (Remote) — Jul 2024 – Present
 
 Contributed to 6+ production Flutter apps
@@ -53,12 +78,11 @@ Farkito (Remote Internship) — Feb 2024 – May 2024
 Built Diyafa Customer & Staff apps
 Implemented booking systems & role-based access control
 Developed service-related features (laundry, cleaning, etc.)
-<h3>🎓 Education</h3>
+🎓 Education
 
 🎓 Bachelor's Degree in Computer Science
 Tanta University
 
-<h3>📫 Connect with me</h3> <p> <a href="https://github.com/basant2231"><img src="https://img.shields.io/badge/GitHub-12100E?style=for-the-badge&logo=github&logoColor=white"/></a> <a href="https://www.linkedin.com/in/basant-eissa-bb29791b3/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="https://basantadeleissa.netlify.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=internet-explorer&logoColor=white"/></a> </p>
+📫 Connect with me
+<p> <a href="https://github.com/basant2231"><img src="https://img.shields.io/badge/GitHub-12100E?style=for-the-badge&logo=github&logoColor=white"/></a> <a href="https://www.linkedin.com/in/basant-eissa-bb29791b3/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="https://basantadeleissa.netlify.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=internet-explorer&logoColor=white"/></a> </p>
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love building impactful apps</b> and collaborating with amazing teams — feel free to connect! 🚀</em> ```
-
-If you want, I can make it even more minimal (clean recruiter style) or more fancy with GitHub stats & animations—just tell me 👍
