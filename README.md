@@ -1,6 +1,9 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=02569B&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Basant+Adel+Eissa;Senior+Flutter+Engineer;Mobile+Solution+Architect" alt="Typing SVG" />
-
+  <h1>Hi, I'm Basant Adel Eissa</h1>
+  <h3>Senior Flutter Engineer • Mobile Solution Architect</h3>
+  <p align="center">
+    <i>Building scalable mobile ecosystems with clean architecture</i>
+  </p>
 </div>
 <h2>🌐 Portfolio</h2>
 
