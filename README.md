@@ -1,8 +1,4 @@
-but fully adapted to your info (clean, modern, and professional 👇):
-
 <h2> Hi, I'm Basant Adel Eissa! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-
-<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 
 <p><em>
 Flutter Developer 💙 <br/>
@@ -43,26 +39,6 @@ Farkito (Remote Internship) — Feb 2024 – May 2024
 Built Diyafa Customer & Staff apps
 Implemented booking systems & role-based access control
 Developed service-related features (laundry, cleaning, etc.)
-<h3>🚀 Featured Projects</h3>
-
-🔹 24Doc Telehealth
-
-Serving 12,000+ patients
-Supports 40+ medical conditions
-Assessment flow under 3 minutes
-Features: real-time consultation, e-prescriptions, secure messaging
-
-🔹 Makers Media
-
-Role-based system (Creator / Marketer)
-Subscription monetization (Free / Pro / Business)
-Firebase notifications + real-time analytics
-
-🔹 10-4 Trucking App
-
-Recruitment platform for drivers & companies
-CRM features + compliance verification
-Firebase-powered backend
 <h3>🎓 Education</h3>
 
 🎓 Bachelor's Degree in Computer Science
@@ -70,3 +46,5 @@ Tanta University
 
 <h3>📫 Connect with me</h3> <p> <a href="https://github.com/basant2231"><img src="https://img.shields.io/badge/GitHub-12100E?style=for-the-badge&logo=github&logoColor=white"/></a> <a href="https://www.linkedin.com/in/basant-eissa-bb29791b3/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="https://basantadeleissa.netlify.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=internet-explorer&logoColor=white"/></a> </p>
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love building impactful apps</b> and collaborating with amazing teams — feel free to connect! 🚀</em> ```
+
+If you want, I can make it even more minimal (clean recruiter style) or more fancy with GitHub stats & animations—just tell me 👍
