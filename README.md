@@ -10,7 +10,17 @@ Based in Egypt 🇪🇬
 [![GitHub basant2231](https://img.shields.io/github/followers/basant2231?label=follow&style=social)](https://github.com/basant2231)
 
 ---
+<h2>🌐 Portfolio</h2>
 
+<p>
+  Explore my work, projects, and experience as a Flutter Developer:
+</p>
+
+<p>
+  <a href="https://basantadeleissa.netlify.app" target="_blank">
+    <img src="https://img.shields.io/badge/-Visit%20My%20Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+</p>
 ### 🛠️ Tech Stack
 
 <p>
