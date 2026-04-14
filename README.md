@@ -3,11 +3,9 @@
 
  
 
-  <h3 align="center">Crafting Scalable Mobile Ecosystems with Precision</h3>
+  <h3 align="center"> Dedicated to building <b>production-grade</b> applications</h3>
   
-  <p align="center">
-    Dedicated to building <b>production-grade</b> applications with a focus on <b>BLoC</b>, <b>Clean Architecture</b>, and <b>High-Performance UI</b>.
-  </p>
+
 </div>
 <h2>🌐 Portfolio</h2>
 
