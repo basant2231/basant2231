@@ -1,26 +1,8 @@
 <h2> Hi, I'm Basant Adel Eissa! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
-<div align="center">
-  <h1>Hi, I'm Basant Adel Eissa</h1>
-  <p>
-    <img src="https://img.shields.io/badge/Senior%20Mobile%20Engineer-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-    <img src="https://img.shields.io/badge/Clean%20Architecture-black?style=for-the-badge&logo=architecture&logoColor=white" />
-  </p>
+Flutter Developer 💙
 
-  <p align="center">
-    <b>Architecting high-performance mobile ecosystems at scale.</b><br>
-    Specializing in <b>BLoC</b>, <b>Clean Architecture</b>, and <b>Production-Ready</b> Flutter applications.
-  </p>
-
-  <p align="center">
-    <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Contact%20Me-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white" /></a>
-    <a href="https://linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
-    <a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/Portfolio-FFCA28?style=flat-square&logo=google-chrome&logoColor=black" /></a>
-  </p>
-</div>
-
-<br />
-
+Building scalable mobile apps with clean architecture 🚀
 ---
 <h2>🌐 Portfolio</h2>
 
