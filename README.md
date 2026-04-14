@@ -1,11 +1,7 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=02569B&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Basant+Adel+Eissa;Senior+Flutter+Engineer;Mobile+Solution+Architect" alt="Typing SVG" />
 
-  <p align="center">
-    <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" />
-    <img src="https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" />
-    <img src="https://img.shields.io/badge/Clean%20Architecture-black?style=for-the-badge&logo=architecture&logoColor=white" />
-  </p>
+ 
 
   <h3 align="center">Crafting Scalable Mobile Ecosystems with Precision</h3>
   
