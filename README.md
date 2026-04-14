@@ -132,4 +132,4 @@ const basant = {
 </table>
 📫 Connect with me
 <p> <a href="https://github.com/basant2231"><img src="https://img.shields.io/badge/GitHub-12100E?style=for-the-badge&logo=github&logoColor=white"/></a> <a href="https://www.linkedin.com/in/basant-eissa-bb29791b3/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="https://basantadeleissa.netlify.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=internet-explorer&logoColor=white"/></a> </p>
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love building impactful apps</b> and collaborating with amazing teams — feel free to connect! 🚀</em> ```
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love building impactful apps</b> and collaborating with amazing teams</em> ```
