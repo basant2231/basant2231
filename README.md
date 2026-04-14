@@ -1,6 +1,5 @@
-<h2> Hi, I'm Basant Adel Eissa! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-
-Flutter Developer 💙
+<h2> Hi, I'm Basant Adel Eissa</h2>
+<h2>Flutter Developer</h2>
 
 Building scalable mobile apps with clean architecture 🚀
 ---
